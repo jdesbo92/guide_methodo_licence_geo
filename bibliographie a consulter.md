@@ -1,6 +1,6 @@
 ---
 title: "Bibliographie à consulter"
-order: 1
+order: 2
 in_menu: true
 ---
 ## Préparer son entrée à l'Université

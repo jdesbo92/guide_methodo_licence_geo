@@ -1,5 +1,5 @@
 ---
 title: "Commentaire de documents"
-order: 5
+order: 4
 in_menu: true
 ---
