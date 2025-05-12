@@ -1,5 +1,5 @@
 ---
-title: "REFLEXION ET ANALYSE EN GEOGRAPHIE : DEMARCHE"
+title: "Démarche d'analyse en géographie en Licence"
 order: 0
 in_menu: true
 ---
