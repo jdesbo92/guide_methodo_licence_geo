@@ -1,5 +1,5 @@
 ---
-title: "ORIENTATIONS BIBLIOGRAPHIQUES"
+title: "Bibliographie à consulter"
 order: 1
 in_menu: true
 ---
