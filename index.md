@@ -1,5 +1,5 @@
 ---
 title: "Démarche d'analyse en géographie en Licence"
-order: 0
+order: 1
 in_menu: true
 ---
